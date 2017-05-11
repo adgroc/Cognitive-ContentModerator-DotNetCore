@@ -6,12 +6,12 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.CognitiveServices.ContentModerator.Contract.Image;
-using Microsoft.CognitiveServices.ContentModerator.Contract.Text;
+using Microsoft.ProjectOxford.ContentModerator.Contract.Image;
+using Microsoft.ProjectOxford.ContentModerator.Contract.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Microsoft.CognitiveServices.ContentModerator
+namespace Microsoft.ProjectOxford.ContentModerator
 {
     public class ModeratorClient : ClientBase, IModeratorClient
     {

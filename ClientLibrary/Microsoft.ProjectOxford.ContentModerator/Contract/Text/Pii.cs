@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.CognitiveServices.ContentModerator.Contract.Text
+namespace Microsoft.ProjectOxford.ContentModerator.Contract.Text
 {
     public class PII
     {

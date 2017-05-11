@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.CognitiveServices.ContentModerator.Contract.Image;
+using Microsoft.ProjectOxford.ContentModerator.Contract.Image;
 
-namespace Microsoft.CognitiveServices.ContentModerator
+namespace Microsoft.ProjectOxford.ContentModerator
 {
     using System.IO;
-    using Microsoft.CognitiveServices.ContentModerator.Contract;
-    using Microsoft.CognitiveServices.ContentModerator.Contract.Text;
+    using Microsoft.ProjectOxford.ContentModerator.Contract;
+    using Microsoft.ProjectOxford.ContentModerator.Contract.Text;
 
     public interface IListManagementClient
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Microsoft.CognitiveServices.ContentModerator.Contract.Review
+namespace Microsoft.ProjectOxford.ContentModerator.Contract.Review
 {
     public class JobDetailsResult
     {

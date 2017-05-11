@@ -6,12 +6,12 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.CognitiveServices.ContentModerator.Contract.Review;
+using Microsoft.ProjectOxford.ContentModerator.Contract.Review;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
 
-namespace Microsoft.CognitiveServices.ContentModerator
+namespace Microsoft.ProjectOxford.ContentModerator
 {
     public class ReviewClient : ClientBase,  IReviewClient
     {

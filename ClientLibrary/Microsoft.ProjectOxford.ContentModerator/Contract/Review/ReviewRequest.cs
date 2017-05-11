@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.CognitiveServices.ContentModerator.Contract.Review
+namespace Microsoft.ProjectOxford.ContentModerator.Contract.Review
 {
     public class ReviewRequest
     {

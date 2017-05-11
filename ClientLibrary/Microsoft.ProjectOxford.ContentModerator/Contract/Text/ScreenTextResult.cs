@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.CognitiveServices.ContentModerator.Contract.Text
+namespace Microsoft.ProjectOxford.ContentModerator.Contract.Text
 {
     /// <summary>
     /// Result from screening a text, containing details regarding the Match

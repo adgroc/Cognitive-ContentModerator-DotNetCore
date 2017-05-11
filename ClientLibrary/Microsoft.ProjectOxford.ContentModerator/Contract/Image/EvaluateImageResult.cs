@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.CognitiveServices.ContentModerator.Contract.Image
+namespace Microsoft.ProjectOxford.ContentModerator.Contract.Image
 {
     /// <summary>
     /// Response from evaluating an image. The response contains the following information

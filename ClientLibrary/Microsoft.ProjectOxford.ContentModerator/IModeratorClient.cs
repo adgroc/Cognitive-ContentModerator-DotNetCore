@@ -4,10 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.CognitiveServices.ContentModerator.Contract.Image;
-using Microsoft.CognitiveServices.ContentModerator.Contract.Text;
+using Microsoft.ProjectOxford.ContentModerator.Contract.Image;
+using Microsoft.ProjectOxford.ContentModerator.Contract.Text;
 
-namespace Microsoft.CognitiveServices.ContentModerator
+namespace Microsoft.ProjectOxford.ContentModerator
 {
     public interface IModeratorClient
     {

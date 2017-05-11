@@ -1,4 +1,4 @@
-﻿namespace Microsoft.CognitiveServices.ContentModerator.Contract
+﻿namespace Microsoft.ProjectOxford.ContentModerator.Contract
 {
     using System.Collections.Generic;
 

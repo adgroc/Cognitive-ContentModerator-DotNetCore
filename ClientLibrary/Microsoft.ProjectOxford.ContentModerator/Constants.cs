@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.CognitiveServices.ContentModerator
+namespace Microsoft.ProjectOxford.ContentModerator
 {
     public class Constants
     {

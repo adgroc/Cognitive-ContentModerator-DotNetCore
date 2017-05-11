@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.CognitiveServices.ContentModerator.Contract.Review;
+using Microsoft.ProjectOxford.ContentModerator.Contract.Review;
 
-namespace Microsoft.CognitiveServices.ContentModerator
+namespace Microsoft.ProjectOxford.ContentModerator
 {
     public interface IReviewClient
     {

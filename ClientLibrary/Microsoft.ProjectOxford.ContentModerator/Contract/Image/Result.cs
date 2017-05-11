@@ -1,4 +1,4 @@
-﻿namespace Microsoft.CognitiveServices.ContentModerator.Contract.Image
+﻿namespace Microsoft.ProjectOxford.ContentModerator.Contract.Image
 {
     /// <summary>
     /// Base class from a Image service result

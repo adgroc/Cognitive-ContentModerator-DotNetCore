@@ -4,7 +4,7 @@
 //  </copyright>
 // -----------------------------------------------------------------------
 
-namespace Microsoft.CognitiveServices.ContentModerator.Contract.Image
+namespace Microsoft.ProjectOxford.ContentModerator.Contract.Image
 {
     /// <summary>
     /// Data representation for the API

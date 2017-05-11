@@ -15,6 +15,7 @@
     <PackageTags>Microsoft Project Oxford Cognitive Content Moderator</PackageTags>
     <PackageReleaseNotes>Support for .NET Core</PackageReleaseNotes>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
