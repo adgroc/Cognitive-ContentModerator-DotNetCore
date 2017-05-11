@@ -1,21 +1,19 @@
-![Emotion](Docs/Images/Emotion.png)
-
-# Emotion API: .NET Core Client Library & Sample
+# Content Moderator API: .NET Core Client Library & Sample
 
 | Branch      | Build Status  |
 | ----------- | ------------- |
-| develop     | [![Build Status](https://travis-ci.org/Microsoft/Cognitive-Emotion-DotNetCore.svg?branch=develop)](https://travis-ci.org/Microsoft/Cognitive-Emotion-DotNetCore) |
-| master      | [![Build Status](https://travis-ci.org/Microsoft/Cognitive-Emotion-DotNetCore.svg?branch=master)](https://travis-ci.org/Microsoft/Cognitive-Emotion-DotNetCore) |
+| develop     | [![Build Status](https://travis-ci.org/adgroc/Cognitive-ContentModerator-DotNetCore.svg?branch=develop)](https://travis-ci.org/adgroc/Cognitive-ContentModerator-DotNetCore) |
+| master      | [![Build Status](https://travis-ci.org/adgroc/Cognitive-ContentModerator-DotNetCore.svg?branch=master)](https://travis-ci.org/adgroc/Cognitive-ContentModerator-DotNetCore) |
 
 ## Overview
-The Emotion API takes an image as an input, and returns the confidence across a set of emotions for each face in the image, as well as bounding box for the face, from the Face API. The emotions detected are happiness, sadness, surprise, anger, fear, contempt, disgust or neutral. These emotions are communicated cross-culturally and universally via the same basic facial expressions, where are identified by Emotion API.
+The Content Moderator API enables your applications to monitor User Generated Content (UGC) on online and social media web sites, chat and messaging platforms, and peer communication platforms to track, flag, assess and filter out offensive and unwanted content that creates risks for businesses. The content can include text, images, and videos.
 
-This repository contains the .NET Core SDK and sample application that allow you to enter your API key and specify an image to detect emotion in.
+This repository contains the .NET Core SDK that allows you to enter your API key and interact with the content moderator API.
 
-Before you can use the SDK or run the sample application you must subscribe to the Emotion API which is part of Microsoft Cognitive Services. You can learn how to subscribe [here](https://www.microsoft.com/cognitive-services/en-us/sign-up).
+Before you can use the SDK or run the sample application you must subscribe to the Content Moderator API which is part of Microsoft Cognitive Services. You can learn how to subscribe [here](https://www.microsoft.com/cognitive-services/en-us/sign-up).
 
 ## The Client Library
-The client library is a thin .NET Core client wrapper for the Emotion API. The easiest way to use this client library is to get the microsoft.projectxoford.emotion.dotnetcore package from nuget. Please go to the [.NET Core Emotion API Package in Nuget](https://www.nuget.org/packages/Microsoft.ProjectOxford.Emotion.DotNetCore/) for more details.
+The client library is a thin .NET Core client wrapper for the Content Moderator API. The easiest way to use this client library is to get the microsoft.projectxoford.contentmoderator.dotnetcore package from nuget. Please go to the [.NET Core Content Moderator API Package in Nuget](https://www.nuget.org/packages/Microsoft.ProjectOxford.ContentModerator.DotNetCore/) for more details.
 
 ## Contributing
 Contributions are welcome. Feel free to file issues and pull requests on the repo and we'll address them as we can. Learn more about how you can help on our [Contribution Rules & Guidelines](/CONTRIBUTING.md).
@@ -29,7 +27,7 @@ All Microsoft Cognitive Services SDKs and samples are licensed with the MIT Lice
 Developers using this project are expected to follow the “Developer Code of Conduct for Microsoft Cognitive Services” at [http://go.microsoft.com/fwlink/?LinkId=698895](http://go.microsoft.com/fwlink/?LinkId=698895).
 
 ## Disclaimer
-The image, voice, video or text understanding capabilities of Microsoft.ProjectOxford.Emotion.DotNetCore use Microsoft Cognitive Services. Microsoft will receive the images, audio, video, and other data that you upload (via this app) for service improvement purposes.
+The image, voice, video or text understanding capabilities of Microsoft.ProjectOxford.ContentModerator.DotNetCore use Microsoft Cognitive Services. Microsoft will receive the images, audio, video, and other data that you upload (via this app) for service improvement purposes.
 
 ## Report Abuse
 To report abuse of the Microsoft Cognitive Services to Microsoft, please visit the Microsoft Cognitive Services website at [https://www.microsoft.com/cognitive-services](https://www.microsoft.com/cognitive-services), and use the "Report Abuse" link at the bottom of the page to contact Microsoft.
