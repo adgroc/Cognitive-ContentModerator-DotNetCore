@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
+    <PackageId>Microsoft.ProjectOxford.ContentModerator.DotNetCore</PackageId>
+    <Product>Microsoft.ProjectOxford.ContentModerator.DotNetCore</Product>
+    <Authors>Adam Grocholski</Authors>
+    <Company>Adam Grocholski</Company>
+    <Description>Microsoft Cognitive Services Content Moderator API Client Library for .NET Core</Description>
+    <Copyright>Copyright 2017</Copyright>
+    <PackageLicenseUrl>https://github.com/adgroc/Cognitive-ContentModerator-DotNetCore/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/adgroc/Cognitive-ContentModerator-DotNetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/adgroc/Cognitive-ContentModerator-DotNetCore</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Microsoft Project Oxford Cognitive Content Moderator</PackageTags>
+    <PackageReleaseNotes>Support for .NET Core</PackageReleaseNotes>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
